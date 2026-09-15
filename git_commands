@@ -1,0 +1,11 @@
+git add .
+
+git commit -m"your message"
+
+git status
+
+git push
+
+git fetch
+
+git pull
